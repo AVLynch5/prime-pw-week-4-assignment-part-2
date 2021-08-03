@@ -1,3 +1,9 @@
 header {
-  background-color: blue;
+  background-color: blue;/*Should I have changed the background color of the header directly in the html code? Using in-line CSS?*/
+
+}
+
+div.info {
+  background-color: red;
+  color: green;
 }
