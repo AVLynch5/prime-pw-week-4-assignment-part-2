@@ -11,9 +11,9 @@ This week we'll be pulling together all of the Javascript techniques you've lear
 - HTML & CSS
 
 
-## Assignment - Styling with `CSS` 
+## Assignment - Styling with `CSS`
 
-Now let's practice some CSS! For this, you will update the index.html file and create a new CSS Stylesheet. 
+Now let's practice some CSS! For this, you will update the index.html file and create a new CSS Stylesheet.
 
 Requirements:
 - Place the existing `<h1>` inside of a `header` element and add a background-color to that header.
