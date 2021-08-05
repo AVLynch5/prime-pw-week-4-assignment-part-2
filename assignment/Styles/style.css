@@ -14,11 +14,13 @@ div.info {
   background-color: red;
   color: blue;
   text-align: center;
+  font-style: oblique;
 }
 
 h3 {
   background color: gray;
   color: blue;
+  font-size: 20px;
 }
 
 img {
@@ -31,5 +33,17 @@ img {
   border-width; 5px;
   border-color: black;
   padding: 5pt;
+}
 
+ul {
+  display: inline-block;
+  text-align: left;
+  border-style: dashed;
+  border-color: black;
+  margin: 2px;
+}
+
+ol {
+  display: inline-block;
+  text-align: left;
 }
